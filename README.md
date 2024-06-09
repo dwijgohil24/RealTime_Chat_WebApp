@@ -12,6 +12,7 @@ Features of Real Time Chat Application:
 Here are the few sneek-peaks into the project 🔥
 
 1. Authentication ( Login / Sign Up )
+
 ![2_login](https://github.com/dwijgohil24/RealTime_Chat_WebApp/assets/80956416/8b70682a-ed58-48b1-8cae-c318591bf150)
 
 ![2_signup](https://github.com/dwijgohil24/RealTime_Chat_WebApp/assets/80956416/6e680112-38a6-4db5-965d-4e91308702c3)
