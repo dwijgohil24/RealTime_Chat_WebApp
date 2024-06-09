@@ -9,7 +9,7 @@ Features of Real Time Chat Application:
 4. Past chat message visiblity.
 5. Upto 10 concurrent user chat possible in each chat room.
 
-Here are the few sneek-peaks into the project 🔥
+Here are the few sneak-peeks into the project 🔥
 
 1. Authentication ( Login / Sign Up )
 
